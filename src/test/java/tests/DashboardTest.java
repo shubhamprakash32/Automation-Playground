@@ -9,7 +9,6 @@ import org.testng.annotations.Test;
 import pages.Dashboard;
 import pages.Login;
 import utils.WaitUtil;
-
 import java.io.File;
 import java.util.*;
 import java.util.stream.Collectors;

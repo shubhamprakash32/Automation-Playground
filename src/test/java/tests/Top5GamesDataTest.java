@@ -9,7 +9,6 @@ import org.testng.annotations.Test;
 import pages.Login;
 import pages.Top5GamesData;
 import utils.WaitUtil;
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;

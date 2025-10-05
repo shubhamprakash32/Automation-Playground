@@ -6,7 +6,6 @@ import org.testng.annotations.*;
 import pages.Login;
 import pages.PlatformFilterOperations;
 import utils.WaitUtil;
-
 import java.util.List;
 
 public class PlatformFilterOperationsTest extends BaseTest {

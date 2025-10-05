@@ -58,7 +58,7 @@ public class LoginTest extends BaseTest {
                     "Error message mismatch for user: " + username);
         } catch (AssertionError e) {
             ScreenshotUtil.capture(driver, username + "_invalidLoginFail");
-            throw e; // fail the test
+            throw e;
         }
     }
 

@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Wait;
 import utils.WaitUtil;
 
 import java.util.ArrayList;
@@ -32,9 +31,9 @@ public class PlatformFilterOperations {
         PageFactory.initElements(driver, this);
     }
 
-    /**
-     * Select a platform filter
-     */
+
+    // Select a platform filter
+
     public void selectPlatform(String platform) {
         platformDropdown.click();
         WaitUtil.waitForVisibility(driver, platformDropdown, 10);
@@ -45,7 +44,7 @@ public class PlatformFilterOperations {
     /**
      * Get all platforms shown in the table after filtering
      */
-    public List<String> getDisplayedPlatforms(){
+    public List<String> getDisplayedPlatforms() {
         List<String> platforms = new ArrayList<>();
         for (WebElement row : tableRows) {
             String platform = row.findElement(By.xpath("./td[3]")).getText().trim().toUpperCase();

@@ -4,7 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -44,12 +43,10 @@ public class Top5GamesData {
         }
     }
 
-    // ----- Helpers -----
     private double parseRevenue(String text) {
         return Double.parseDouble(text.replaceAll("[$,]", ""));
     }
 
-    // ----- Public API -----
     public List<GameInfo> getTop5GamesDetails() {
         List<GameInfo> games = new ArrayList<>();
         for (int i = 0; i < top5GameNames.size(); i++) {

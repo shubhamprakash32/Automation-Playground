@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 import pages.Login;
 import pages.PlatformAndTotals;
 import utils.WaitUtil;
-
 import java.util.HashMap;
 import java.util.Map;
 
