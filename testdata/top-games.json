@@ -1,0 +1,39 @@
+{
+  "topGames": [
+    {
+      "game_id": "ST002",
+      "game_name": "Counter-Strike 2",
+      "platform": "Steam",
+      "total_revenue": 2100000,
+      "rank": 1
+    },
+    {
+      "game_id": "ST004",
+      "game_name": "Elden Ring",
+      "platform": "Steam",
+      "total_revenue": 1950000,
+      "rank": 2
+    },
+    {
+      "game_id": "NS002",
+      "game_name": "The Legend of Zelda: Tears of the Kingdom",
+      "platform": "Nintendo",
+      "total_revenue": 1800000,
+      "rank": 3
+    },
+    {
+      "game_id": "ST005",
+      "game_name": "Dota 2",
+      "platform": "Steam",
+      "total_revenue": 1780000,
+      "rank": 4
+    },
+    {
+      "game_id": "ST003",
+      "game_name": "Baldur's Gate 3",
+      "platform": "Steam",
+      "total_revenue": 1650000,
+      "rank": 5
+    }
+  ]
+}

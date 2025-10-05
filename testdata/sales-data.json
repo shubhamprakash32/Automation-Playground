@@ -1,0 +1,144 @@
+{
+  "salesData": [
+    {
+      "game_id": "XB001",
+      "game_name": "Halo Infinite",
+      "platform": "Xbox",
+      "revenue": 850000,
+      "date": "2024-01-15"
+    },
+    {
+      "game_id": "ST001",
+      "game_name": "Cyberpunk 2077",
+      "platform": "Steam",
+      "revenue": 1200000,
+      "date": "2024-01-15"
+    },
+    {
+      "game_id": "NS001",
+      "game_name": "Super Mario Odyssey",
+      "platform": "Nintendo",
+      "revenue": 920000,
+      "date": "2024-01-15"
+    },
+    {
+      "game_id": "PS001",
+      "game_name": "God of War Ragnarok",
+      "platform": "PlayStation",
+      "revenue": 1500000,
+      "date": "2024-01-15"
+    },
+    {
+      "game_id": "XB002",
+      "game_name": "Forza Horizon 5",
+      "platform": "Xbox",
+      "revenue": 750000,
+      "date": "2024-01-16"
+    },
+    {
+      "game_id": "ST002",
+      "game_name": "Counter-Strike 2",
+      "platform": "Steam",
+      "revenue": 2100000,
+      "date": "2024-01-16"
+    },
+    {
+      "game_id": "NS002",
+      "game_name": "The Legend of Zelda: Tears of the Kingdom",
+      "platform": "Nintendo",
+      "revenue": 1800000,
+      "date": "2024-01-16"
+    },
+    {
+      "game_id": "PS002",
+      "game_name": "Spider-Man 2",
+      "platform": "PlayStation",
+      "revenue": 1350000,
+      "date": "2024-01-16"
+    },
+    {
+      "game_id": "XB003",
+      "game_name": "Starfield",
+      "platform": "Xbox",
+      "revenue": 980000,
+      "date": "2024-01-17"
+    },
+    {
+      "game_id": "ST003",
+      "game_name": "Baldur's Gate 3",
+      "platform": "Steam",
+      "revenue": 1650000,
+      "date": "2024-01-17"
+    },
+    {
+      "game_id": "NS003",
+      "game_name": "Pokemon Scarlet/Violet",
+      "platform": "Nintendo",
+      "revenue": 1100000,
+      "date": "2024-01-17"
+    },
+    {
+      "game_id": "PS003",
+      "game_name": "The Last of Us Part I",
+      "platform": "PlayStation",
+      "revenue": 890000,
+      "date": "2024-01-17"
+    },
+    {
+      "game_id": "XB004",
+      "game_name": "Gears 5",
+      "platform": "Xbox",
+      "revenue": 670000,
+      "date": "2024-01-18"
+    },
+    {
+      "game_id": "ST004",
+      "game_name": "Elden Ring",
+      "platform": "Steam",
+      "revenue": 1950000,
+      "date": "2024-01-18"
+    },
+    {
+      "game_id": "NS004",
+      "game_name": "Mario Kart 8 Deluxe",
+      "platform": "Nintendo",
+      "revenue": 830000,
+      "date": "2024-01-18"
+    },
+    {
+      "game_id": "PS004",
+      "game_name": "Horizon Forbidden West",
+      "platform": "PlayStation",
+      "revenue": 1120000,
+      "date": "2024-01-18"
+    },
+    {
+      "game_id": "XB005",
+      "game_name": "Age of Empires IV",
+      "platform": "Xbox",
+      "revenue": 540000,
+      "date": "2024-01-19"
+    },
+    {
+      "game_id": "ST005",
+      "game_name": "Dota 2",
+      "platform": "Steam",
+      "revenue": 1780000,
+      "date": "2024-01-19"
+    },
+    {
+      "game_id": "NS005",
+      "game_name": "Animal Crossing: New Horizons",
+      "platform": "Nintendo",
+      "revenue": 950000,
+      "date": "2024-01-19"
+    },
+    {
+      "game_id": "PS005",
+      "game_name": "Gran Turismo 7",
+      "platform": "PlayStation",
+      "revenue": 780000,
+      "date": "2024-01-19"
+    }
+  ]
+}
